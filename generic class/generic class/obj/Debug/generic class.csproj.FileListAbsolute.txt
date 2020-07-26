@@ -1,0 +1,6 @@
+C:\Users\Vasper-N1CK\source\repos\generic class\generic class\obj\Debug\generic class.csprojAssemblyReference.cache
+C:\Users\Vasper-N1CK\source\repos\generic class\generic class\bin\Debug\generic class.exe.config
+C:\Users\Vasper-N1CK\source\repos\generic class\generic class\bin\Debug\generic class.exe
+C:\Users\Vasper-N1CK\source\repos\generic class\generic class\bin\Debug\generic class.pdb
+C:\Users\Vasper-N1CK\source\repos\generic class\generic class\obj\Debug\generic class.exe
+C:\Users\Vasper-N1CK\source\repos\generic class\generic class\obj\Debug\generic class.pdb
